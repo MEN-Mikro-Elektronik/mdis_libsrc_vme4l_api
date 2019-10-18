@@ -1,7 +1,7 @@
 @INCLUDE_PATH = $(MEN_DOXYGENTMPL)
 @INCLUDE = DoxyfileCommon
 
-#MDIS_COMMIT=1e471c461b1aa3e18958f1ee5d977b2aada8e8e8
+#MDIS_COMMIT=c3750edcd23457ab6d92fa2ae00ccd9e453d4cae
 
 PROJECT_NAME           = "VME4L API"
 INPUT                  = ../vme4l_api.c \
